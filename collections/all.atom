@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://Escapethematrixworld.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://Escapethematrixworld.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://Escapethematrixworld.co/collections/all.atom"/>
+  <title>Escapethematrixworld</title>
+  <updated>2024-05-20T13:17:53-04:00</updated>
+  <author>
+    <name>Escapethematrixworld</name>
+  </author>
+  <entry>
+    <id>https://Escapethematrixworld.co/products/9477927338258</id>
+    <published>2024-05-20T13:17:53-04:00</published>
+    <updated>2024-05-20T13:17:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://Escapethematrixworld.co/products/mh-bundle"/>
+    <title>The Champion Bundle™</title>
+    <s:type></s:type>
+    <s:vendor>Escapethematrixworld</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0875/7467/5730/files/Funnel_V3_Frame_4_1.png?v=1719615506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Escapethematrixworld<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://Escapethematrixworld.co/products/9477927338258</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
